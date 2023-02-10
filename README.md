@@ -42,7 +42,7 @@
 <li> I calculated the maximum and minimum ride length, the average ride length for each membership type, and the average ride length per month for each membership type. </li>. 
 <li> Finally, I created different tables for the visualization part of the project. Note: I had to do it this way because the dataset was too large to import directly to Looker Studio. </li>
 <h3> Data Visualization using Looker Studio: </h3>
-<p> If you have an account, you can look the dashboard from <a href="[https://ride.divvybikes.com/data-license-agreement](https://lookerstudio.google.com/s/lnejOF8JVCE )" target="_blank"> here</a>. But I'll leave the PDF file for those who don't. </p>
+<p> If you have an account, you can look the dashboard from <a href="https://lookerstudio.google.com/s/lnejOF8JVCE" target="_blank"> here</a>. But I'll leave the PDF file for those who don't. </p>
 <p> If you have an account, you can look at the dashboard from here. But I'll leave the PDF file for those who don't. </p>
 <p> To complete the project, I decided to create a short presentation addressed to the marketing team in which I left my insights and recommendations. I left the PDF file of it above (you can find it here for those who don't want to download it.)</p>
 
