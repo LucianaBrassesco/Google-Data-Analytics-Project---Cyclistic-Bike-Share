@@ -43,8 +43,18 @@
 <li> Finally, I created different tables for the visualization part of the project. Note: I had to do it this way because the dataset was too large to import directly to Looker Studio. </li>
 <h3> Data Visualization using Looker Studio: </h3>
 <p> If you have an account, you can look the dashboard from <a href="https://lookerstudio.google.com/s/lnejOF8JVCE" target="_blank"> here</a>. But I'll leave the PDF file for those who don't. </p>
-<p> To complete the project, I decided to create a short presentation addressed to the marketing team in which I left my insights and recommendations. I left the PDF file of it above (you can find it here for those who don't want to download it.)</p>
-
+<h3> Conclusions: </h3>
+<li> Annual members make the most rides. </li>
+<li> Annual members prefer classic bikes, and don't use docked ones (maybe they are not accesible to them). </li>
+<li> Casual riders tend to use more the classic and electric ones and less the docked bikes. </li>
+<li> Casual riders are more likely to use the service during the weekends, and annual members on weekdays (maybe to commute from work or university). </li>
+<li> Annual members tend to make round trips (they almost use the same stations at the start of their trips and at the end). </li>
+<li> Casual riders use different starting and ending station. </li>
+<li> Annual members take shorter trips than casual riders. </li>
+<h3> Recommendations: </h3>
+<li> Determine why annual members don't use docked bikes and make a plan of incentives. </li>
+<li> Determine the structure of the casual rider group (are they tourists, students, etc.? If they aren't, where do they usually live?). The objective is to understand what motivates them to use the service and why they don't pay the annual membership (economic reasons, they don't have access to stations, etc.) </li>
+<li> If casual riders are likely to use the service more in the summer and during the weekends, offer different deals that appeal to and adjust to their usage. </li>
 
 
 
